@@ -8,4 +8,4 @@ Since I am not willing to publish it at the moment, you can use it by:
 * Clone the repository
 * Go to `chrome://extensions`
 * Enable __Developer Mode__
-* Click on *Load unpacked extension..."
+* Click on *Load unpacked extension...*
